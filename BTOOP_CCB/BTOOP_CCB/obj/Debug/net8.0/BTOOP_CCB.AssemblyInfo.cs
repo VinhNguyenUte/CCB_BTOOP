@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTOOP_CCB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2282d81838d6852589c7e6fd531ba65b08af328")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c5784fafefd56157c572d53f219b2a544f43b4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTOOP_CCB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTOOP_CCB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

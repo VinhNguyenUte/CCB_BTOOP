@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|d:\\dh\\224\\224c#cb\\baitapoop\\btoop_ccb\\btoop_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|solutionrelative:btoop_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|d:\\dh\\224\\224c#cb\\baitapoop\\btoop_ccb\\btoop_ccb\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|solutionrelative:btoop_ccb\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|d:\\dh\\224\\224c#cb\\baitapoop\\btoop_ccb\\btoop_ccb\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|solutionrelative:btoop_ccb\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|d:\\dh\\224\\224c#cb\\baitapoop\\btoop_ccb\\btoop_ccb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|solutionrelative:btoop_ccb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|d:\\dh\\224\\224c#cb\\baitapoop\\btoop_ccb\\btoop_ccb\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188876DA-CA90-4693-8176-87791D604CC3}|BTOOP_CCB\\BTOOP_CCB.csproj|solutionrelative:btoop_ccb\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "D:\\DH\\224\\224C#CB\\BAITAPOOP\\BTOOP_CCB\\BTOOP_CCB\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "BTOOP_CCB\\FullTimeEmployee.cs",
+              "ToolTip": "D:\\DH\\224\\224C#CB\\BAITAPOOP\\BTOOP_CCB\\BTOOP_CCB\\FullTimeEmployee.cs",
+              "RelativeToolTip": "BTOOP_CCB\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:11:44.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "D:\\DH\\224\\224C#CB\\BAITAPOOP\\BTOOP_CCB\\BTOOP_CCB\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "BTOOP_CCB\\PartTimeEmployee.cs",
+              "ToolTip": "D:\\DH\\224\\224C#CB\\BAITAPOOP\\BTOOP_CCB\\BTOOP_CCB\\PartTimeEmployee.cs",
+              "RelativeToolTip": "BTOOP_CCB\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:11:27.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DH\\224\\224C#CB\\BAITAPOOP\\BTOOP_CCB\\BTOOP_CCB\\Employee.cs",
+              "RelativeDocumentMoniker": "BTOOP_CCB\\Employee.cs",
+              "ToolTip": "D:\\DH\\224\\224C#CB\\BAITAPOOP\\BTOOP_CCB\\BTOOP_CCB\\Employee.cs",
+              "RelativeToolTip": "BTOOP_CCB\\Employee.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:11:06.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\DH\\224\\224C#CB\\BAITAPOOP\\BTOOP_CCB\\BTOOP_CCB\\IEmployee.cs",
+              "RelativeDocumentMoniker": "BTOOP_CCB\\IEmployee.cs",
+              "ToolTip": "D:\\DH\\224\\224C#CB\\BAITAPOOP\\BTOOP_CCB\\BTOOP_CCB\\IEmployee.cs",
+              "RelativeToolTip": "BTOOP_CCB\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:10:28.585Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "BTOOP_CCB\\Program.cs",
               "ToolTip": "D:\\DH\\224\\224C#CB\\BAITAPOOP\\BTOOP_CCB\\BTOOP_CCB\\Program.cs",
               "RelativeToolTip": "BTOOP_CCB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T05:40:49.111Z",
               "EditorCaption": ""

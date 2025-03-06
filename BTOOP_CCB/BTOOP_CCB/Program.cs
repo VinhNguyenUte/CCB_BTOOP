@@ -1,7 +1,16 @@
-﻿internal class Program
+﻿using BTOOP_CCB;
+
+internal class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        IEmployee employee1 = new PartTimeEmployee("Trung", 45000, 7);
+        Console.WriteLine("Name: " + employee1.GetName());
+        Console.WriteLine("Salary per day: " + employee1.CalculateSalary());
+
+        IEmployee employee2 = new FullTimeEmployee("Linh", 65000);
+        Console.WriteLine("Name: " + employee2.GetName());
+        Console.WriteLine("Salary per day: " + employee2.CalculateSalary());
+        Console.ReadKey();
     }
 }
